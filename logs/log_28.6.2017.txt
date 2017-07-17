@@ -1,0 +1,1202 @@
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 7:59 am
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:00 am
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:01 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you&#8217;ll need to email us at <a href="mailto:info@chucklinggoat.co.uk">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:02 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you&#8217;ll need to email us at <a href="mailto:info@chucklinggoat.co.uk">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:03 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you&#8217;ll need to email us at <a href="mailto:info@chucklinggoat.co.uk">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:04 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat\&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you\&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you\&#8217;ll need to email us at <a href=\"mailto:info@chucklinggoat.co.uk\">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:05 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat\&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you\&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you\&#8217;ll need to email us at <a href=\"mailto:info@chucklinggoat.co.uk\">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:06 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat\&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you\&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you\&#8217;ll need to email us at <a href=\"mailto:info@chucklinggoat.co.uk\">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:07 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat\&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you\&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you\&#8217;ll need to email us at <a href=\"mailto:info@chucklinggoat.co.uk\">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:08 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you&#8217;ll need to email us at <a href="mailto:info@chucklinggoat.co.uk">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 8:09 am
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi ,</p>
+<p>The goat&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you&#8217;ll need to email us at <a href="mailto:info@chucklinggoat.co.uk">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
+Send Remind Mail: 172.25.196.5 - June 28, 2017, 2:19 pm
+Second send remind
+Mail content: 
+To: hanuman@chucklinggoat.co.uk
+Subject: Chuckling Goat 1 Day Subscription Reminder.
+Content: <!DOCTYPE html>
+<html lang="en-GB">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Test Site</title>
+	</head>
+	<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0">
+		<div id="wrapper" dir="ltr">
+			<table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+				<tr>
+					<td align="center" valign="top">
+						<div id="template_header_image">
+													</div>
+						<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container">
+							<tr>
+								<td align="center" valign="top">
+									<!-- Header -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header">
+										<tr>
+											<td id="header_wrapper">
+												<img class="header-logo" src="https://www.chucklinggoat.co.uk/wp-content/themes/the_nuclear_ape_theme/img/logo.png" alt="Chuckling Goat">
+												<h1 class="subscription-header" style="color: #308f97;">Your subscription renews in 1 days.</h1>
+											</td>
+										</tr>
+									</table>
+									<!-- End Header -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Body -->
+									<table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+										<tr>
+											<td valign="top" id="body_content">
+												<!-- Content -->
+												<table border="0" cellpadding="20" cellspacing="0" width="100%">
+													<tr>
+														<td valign="top">
+															<div id="body_content_inner">
+																<p>Hi Hanuman,</p>
+<p>The goat&#8217;s would like to remind you that your subscription is due to renew in 1 days.</p>
+<p>If you want to make any changes you&#8217;ll need to do it before we process the payment on <strong>29 June 2017 at</strong> <strong>6:33 PM</strong>.</p>
+<p>To make any changes to your subscription you&#8217;ll need to email us at <a href="mailto:info@chucklinggoat.co.uk">info@chucklinggoat.co.uk</a> or give us a ring on 01239 654 072 (weekdays between 9am and 4pm) and a member of the team will be happy to help.</p>
+<p>Please quote your subscription number <strong>#72</strong> when you contact us.</p>
+<p>Here is a breakdown of your subscriptions contents for your records:</p>
+
+																<h2>Subscription <a href="http://www.queenofkefir.com/my-account/view-subscription/72">#72</a></h2><table class="td" cellspacing="0" cellpadding="6" style="width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;" border="1">
+	<thead>
+		<tr>
+			<th class="td" scope="col" style="text-align:left;">Product</th>
+			<th class="td" scope="col" style="text-align:left;">Quantity</th>
+			<th class="td" scope="col" style="text-align:left;">Price</th>
+		</tr>
+	</thead>
+	<tbody>
+			</tbody>
+	<tfoot>
+						<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; border-top-width: 4px;">Subtotal:</th>
+					<td class="td" style="text-align:left; border-top-width: 4px;"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>0.00</span> <small>(ex. VAT)</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Shipping:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>12.00</span>&nbsp;<small class="shipped_via">via Shipping</small></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Fee:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>1.00</span></td>
+				</tr>
+								<tr>
+					<th class="td" scope="row" colspan="2" style="text-align:left; ">Total:</th>
+					<td class="td" style="text-align:left; "><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>13.00</span> / day</td>
+				</tr>
+					</tfoot>
+</table>
+
+
+																															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+							<tr>
+								<td align="center" valign="top">
+									<!-- Footer -->
+									<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+										<tr>
+											<td valign="top">
+												<table border="0" cellpadding="10" cellspacing="0" width="100%">
+													<tr>
+														<td colspan="2" valign="middle" id="credit">
+															<p>Test Site &#8211; Powered by WooCommerce</p>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<!-- End Footer -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+-------------------------
